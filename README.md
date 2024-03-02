@@ -4,3 +4,5 @@
 
 🥳 Although there are still many shortcomings, I will continue to output and gradually improve!  If you find this project helpful, welcome Star!
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/JiuBanA1/Linux-Notes.svg?variant=adaptive)](https://starchart.cc/JiuBanA1/Linux-Notes)
